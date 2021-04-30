@@ -1,0 +1,26 @@
+
+body{
+    font-family:'Poppins', sans-serif;;
+}
+
+ul.navbar-nav.navbar-customize {
+    margin-left: auto;
+}
+ul.navbar-nav.navbar-customize li a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 500;
+    color: #f9f9f9;
+    padding: 0 31px;
+}
+span.mr-4 {
+    display: inline-block;
+    color: #ffffff;
+    padding: 0 12px;
+}
+span.customize {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+}

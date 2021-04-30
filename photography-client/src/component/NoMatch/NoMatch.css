@@ -1,0 +1,8 @@
+.error-template {
+    margin: 170px;
+    padding: 40px 15px;text-align: center;    
+     background-image: linear-gradient(to bottom right, red, yellow);
+     border-radius: 10px;
+}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }

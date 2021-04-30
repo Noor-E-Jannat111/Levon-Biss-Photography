@@ -1,0 +1,13 @@
+.img-blog img {
+    height: 300px;
+    margin: 47px 0;
+    border-radius: 4px;
+    transition: .4s;
+    position: relative;
+    transition: .4s;
+
+}
+.img-blog img:hover {
+    transform: translateY(6px);
+    opacity: .4;
+}

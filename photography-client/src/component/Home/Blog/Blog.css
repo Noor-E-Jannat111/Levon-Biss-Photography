@@ -1,0 +1,16 @@
+.background-for-blog-section{
+    background: url(../../../images/slider-bg4.jpg)no-repeat fixed top center;
+    padding: 200px 0;
+    background-size:cover ;
+    position: relative;
+}
+
+.background-for-blog-section::before{
+    content:'';
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.685);
+}

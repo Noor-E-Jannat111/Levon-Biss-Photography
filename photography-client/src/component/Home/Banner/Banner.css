@@ -1,0 +1,45 @@
+.the-heading-part.py-4 h1 {
+    color: #ffffffd1;
+    position: relative;
+    padding-top: 163px;
+    padding-bottom: 34px;
+}
+.the-heading-part.py-4 h1 {
+    color: #ffffffd1;
+    position: relative;
+    padding-top:522px;
+    padding-bottom: 23px;
+    
+}
+
+    
+    
+
+.the-heading-part.py-4.d-flex.align-content-end.flex-wrap p {
+    color: #c8cbd0;
+    position: relative;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 34px;
+}
+button.edit {
+    display: inline-block;
+    border: none;
+    outline: none;
+    position: relative;
+    padding: 14px 60px;
+    font-size: 16px;
+    margin: 13px 0;
+    background: linear-gradient(45deg, #227e928f, #298dbb);
+    color: #FFF;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s;
+    
+}
+button.edit:hover {
+    
+    background: #298dbb;
+    
+    
+}
